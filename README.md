@@ -6,4 +6,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 ## Database deployment
 
-Following the course, I have deployed a PostgreSQL database with [Vercel](https://nextjs-dashboard-qjhqg3n72-anaselmos-projects.vercel.app/)
+Following the course, I have deployed a PostgreSQL database with [Vercel](https://vercel.com/)
